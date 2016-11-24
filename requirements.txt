@@ -1,0 +1,5 @@
+pandas==0.19.1
+requests==2.11.1
+six==1.10.0
+tensorflow==0.11.0rc2
+tflearn==0.2.1
