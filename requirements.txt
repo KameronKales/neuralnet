@@ -1,2 +1,3 @@
+tensorflow==0.10.0
 six==1.10.0
 tflearn==0.2.1
